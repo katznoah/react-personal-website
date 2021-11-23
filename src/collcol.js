@@ -8,7 +8,8 @@ class CollCol extends React.Component {
           <div className="col text-center fat">
             <h2 className="list-title text-center">{this.props.title}</h2>
             <hr />
-            <div className="accordian" id={this.props.id}>
+            <div className="container">
+            <div className="container accordian" id={this.props.id}>
               {this.props.json.map((val) => {
                 return (
                     <CollCard parent={id} title={val.title} id={val.id} key={val.id}>
@@ -16,6 +17,7 @@ class CollCol extends React.Component {
                     </CollCard>
                 );
               })}
+            </div>
             </div>
           </div>
     );

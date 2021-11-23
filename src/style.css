@@ -37,7 +37,7 @@ p {
 	padding-top: 60px;
 }
 
-img {
+img.head {
 	width: 400px;
 	height: 400px;
 	border-radius: 200px;
@@ -60,4 +60,45 @@ p.pad {
 div.fat {
 	margin-bottom: 5%;
 	margin-top: 5%;
+}
+
+div.card {
+	width: 18rem;
+}
+
+.project:hover {
+	background-color: rgb(227, 239, 243);
+	color: black;
+}
+
+h5.text-info {
+	font-size: 170%;
+}
+
+p.text-info {
+	font-size: 130%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+h2.header {
+	font-size: 250%;
+}
+
+div#Projects {
+	margin-top: 3%;
 }
