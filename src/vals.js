@@ -3,7 +3,7 @@ const vals = {
     {
       "id": "major",
       "title": <span>Major: <strong>Computer Science</strong></span>,
-      "text": <ol>Relavent Courework:
+      "text": <ol>Relavent Coursework:
                 <hr />
                 <li>- Machine Organization & Assembly Language</li>
                 <li>- Data Structures</li>
@@ -24,7 +24,7 @@ const vals = {
     {
       "id": "minor",
       "title": <span>Minor: <strong>Legal Studies</strong></span>,
-      "text": <ol>Relavent Courework:
+      "text": <ol>Relavent Coursework:
                 <hr />
                 <li>- Introduction to Law</li>
                 <li>- Legal Issues of the Mass Media</li>
@@ -47,7 +47,7 @@ const vals = {
       "id": "suth",
       "title": <span>Sutherland Global Services: <strong>Digital Consulting Intern</strong></span>,
       "text": <span>As a Digital Consulting Intern for Sutherland Global Services, I supported the 
-        Digital Transformation Consulting group, reviewed and edited work proposals for clients, and 
+        Digital Transformation Consulting group, reviewed and edited commercial proposals for clients, and 
         created and organized an online document library.</span>
     },
     {
@@ -55,6 +55,40 @@ const vals = {
       "title": <span>US District Court, District of NJ: <strong>Judicial Intern</strong></span>,
       "text": <span>As a Judicial Intern to The Honorable Tonianne Bongiovanni, I organized and 
         filed court documents and composed summaries of court proceedings.</span>
+    }
+  ],
+  "skills": [
+    {
+      "id":"langs",
+      "title": <span>Programming Languages</span>,
+      "text": <ul>
+                <li>- JavaScript</li>
+                <li>- Java</li>
+                <li>- C/C++</li>
+                <li>- Python</li>
+                <li>- HTML & CSS</li>
+                <li>- Bash</li>
+                <li>- SQL & PL/SQL</li>
+                <li>- ARMv8 Assembly</li>
+              </ul>
+    },
+    {
+      "id": "other",
+      "title": <span>Other Skills</span>,
+      "text": <ul>
+                <li>- Node.js & Express.js</li>
+                <li>- ReactJS <strong>(used in this website)</strong></li>
+                <li>- Relational Databases (SQLite & Oracle)</li>
+                <li>- NOSQL Databases (Firebase)</li>
+                <li>- jQuery</li>
+                <li>- Bootstrap <strong>(used in this website)</strong></li>
+                <li>- JUnit Testing</li>
+                <li>- JavaFX</li>
+                <li>- Gradle</li>
+                <li>- Information Security</li>
+                <li>- Governance, Risk, and Compliance</li>
+                <li>- Legal Research</li>
+              </ul>
     }
   ]
 };

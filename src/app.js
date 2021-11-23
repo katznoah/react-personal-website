@@ -26,6 +26,7 @@ class App extends React.Component {
                         <div className="row">
                                 <CollCol id="ud" title="University of Delaware" json={vals.ud} />
                                 <CollCol id="work" title="Work Experience" json={vals.work} />
+                                <CollCol id="skills" title="Skills" json={vals.skills} />
                         </div>
                     </div>
                 </Section>
