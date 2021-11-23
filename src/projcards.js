@@ -25,7 +25,7 @@ class ProjCards extends React.Component {
           
           <div className="col">
               <div id="crypto" className="project card">
-                  <a href="https://inapppurchases.herokuapp.com/pages/landing.html" target="_blank"><img src="https://katznoah.github.io/img/crypto.png" alt="click by Deemak Daksina from the Noun Project" className="card-img-top" />
+                  <a href="https://inapppurchases.herokuapp.com/" target="_blank"><img src="https://katznoah.github.io/img/crypto.png" alt="click by Deemak Daksina from the Noun Project" className="card-img-top" />
                   <div className="card-body">
                       <h5 className="card-title text-info">Crypto Clicker</h5>
                       <p className="card-text text-info">This is a clicker game I am working on with a team, we are currently using Bootstrap, jQuery, Node, Express, D3, and Firebase</p>
