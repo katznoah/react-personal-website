@@ -12,7 +12,7 @@ class App extends React.Component {
                 <Nav />
                 <Section className="section-top container-fluid text-center">
                     <h2 className="title"><strong>Developer && Student</strong></h2>
-                    <h3 className="title">this is me</h3>
+                    <br />
                     <img alt="noah" class="head" src="https://katznoah.github.io/img/picture_of_me.png"></img>
                 </Section>
                 <Section className="bg-info text-white container-fluid text-center">
