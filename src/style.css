@@ -1,0 +1,58 @@
+h1.title {
+	padding: 2%;
+	font-size: 330%;
+}
+
+h2.title {
+	padding-bottom: 2%;
+	font-size: 400%;
+}
+
+h3.title {
+	padding-bottom: 2%;
+	font-size: 300%;
+}
+
+h2.list-title {
+	font-size: 175%;
+}
+
+strong {
+	font-weight: bold;
+}
+
+p {
+	font-size: 150%;
+}
+
+.section {
+  width: 100%;
+  margin: 0;
+  padding: 100px;
+}
+
+.section-top {
+	width: 100%;
+	margin: 0;
+	padding-top: 60px;
+}
+
+img {
+	width: 400px;
+	height: 400px;
+	border-radius: 200px;
+	object-fit: cover;
+	object-position: 0% 0%;
+}
+
+.text-color {
+	color: teal;
+}
+
+.bg-color {
+	background-color: teal;
+}
+
+p.pad {
+	padding-bottom: 0.4%;
+}
