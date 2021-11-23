@@ -23,11 +23,9 @@ class App extends React.Component {
                 </Section>
                 <Section id="Resume" className="bg-white text-info container-fluid text-center">
                     <div className="container">
-                        <div className="col col-auto">
-                            <div className="row">
+                        <div className="row">
                                 <CollCol id="ud" title="University of Delaware" json={vals.ud} />
                                 <CollCol id="work" title="Work Experience" json={vals.work} />
-                            </div>
                         </div>
                     </div>
                 </Section>

@@ -5,7 +5,7 @@ class CollCol extends React.Component {
   render() {
     const id = this.props.id;
     return (
-          <div className="col col-4 text-center">
+          <div className="col text-center fat">
             <h2 className="list-title text-center">{this.props.title}</h2>
             <hr />
             <div className="accordian" id={this.props.id}>

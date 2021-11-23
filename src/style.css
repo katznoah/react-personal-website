@@ -56,3 +56,8 @@ img {
 p.pad {
 	padding-bottom: 0.4%;
 }
+
+div.fat {
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
